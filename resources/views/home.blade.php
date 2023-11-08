@@ -57,7 +57,7 @@
       <h1>Hi Good People</h1>
       <h2>Infomation Technology Udayana</h2>
       <h2>Engineering Faculty</h2>
-      <a href="about.html" class="btn-about">See more</a>
+      <a href="/about" class="btn-about">See more</a>
     </div>
   </section><!-- End Hero -->
 
